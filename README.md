@@ -114,7 +114,13 @@ Aplicação para cadastro, organização e disponibilização de materiais digit
   <img src="https://streak-stats.demolab.com?user=darkheroam&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
 </p>
 
+## 📈 Minha jornada no GitHub
 
+<p align="center">
+  🚀 Construindo projetos com Python, Flask, JavaScript e SQL<br>
+  📚 Aprendendo continuamente desenvolvimento Backend e APIs REST<br>
+  🛠️ Transformando experiência em Infraestrutura em soluções de software
+</p>
 
 
 ## 🐍 Contribuições
