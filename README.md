@@ -73,9 +73,13 @@ Atuação com suporte técnico especializado para sistemas de cartório, anális
 
 ### Projeto Norte Conectado — MDC
 
-Participação na implantação de contêineres Data Center responsáveis por receber a infraestrutura de fibra óptica do projeto Norte Conectado, do Ministério das Comunicações.
-
----
+Responsável pelo Sistema de Monitoramento do NOC: Garantir a funcionalidade ideal dos equipamentos, permitindo ações rápidas na resolução de problemas.
+Configuração de Equipamentos de Rede e Segurança Eletrônica: Realizar a configuração e manutenção de dispositivos de rede e sistemas de segurança eletrônica.
+Suporte à Equipe de Campo: Oferecer suporte técnico à equipe de campo, garantindo a eficiência nas operações externas.
+Implantação de Contêineres Data Center: Participar da implantação de contêineres Data Center no projeto Norte Conectado do Governo Federal - Ministério da Comunicação.
+Instalação de Cofres Modulares Inteligentes: Implementar cofres modulares inteligentes para armazenar equipamentos valiosos nas escolas públicas.
+Manutenção de Computadores e Notebooks: Realizar a manutenção preventiva e corretiva de computadores e notebooks.
+Suporte aos Usuários do Ambiente Corporativo: Oferecer suporte técnico aos usuários do ambiente corporativo, garantindo a continuidade das operações.
 
 ## 📌 Projetos em destaque
 
