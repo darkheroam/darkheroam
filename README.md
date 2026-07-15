@@ -114,7 +114,7 @@ Aplicação para cadastro, organização e disponibilização de materiais digit
   <img src="https://streak-stats.demolab.com?user=darkheroam&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
 </p>
 
----
+
 
 ## 🏆 Troféus
 
