@@ -101,16 +101,14 @@ Aplicação para cadastro, organização e disponibilização de materiais digit
 
 **Tecnologias:** Python, Flask, SQLite e Bootstrap.
 
----
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=darkheroam&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=darkheroam&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=darkheroam&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições de Pedro Santos"
+  />
 </p>
 
 ## 📈 Minha jornada no GitHub
