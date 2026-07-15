@@ -118,10 +118,16 @@ Aplicação para cadastro, organização e disponibilização de materiais digit
 
 ## 🏆 Troféus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darkheroam&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Troféus do GitHub">
-</p>
+## 🏆 Troféus
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=darkheroam&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
+      alt="Troféus do GitHub de Pedro Santos"
+    />
+  </a>
+</p>
 ---
 
 ## 🐍 Contribuições
