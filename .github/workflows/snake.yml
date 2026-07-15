@@ -19,15 +19,18 @@ jobs:
       - name: Gerar arquivos SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: darkheroam
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publicar na branch output
+      - name: Publicar animação
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          target_branch: output
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
