@@ -106,12 +106,11 @@ Aplicação para cadastro, organização e disponibilização de materiais digit
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=darkheroam&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkheroam&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
-</p>
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=darkheroam&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=darkheroam&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=darkheroam&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ## 📈 Minha jornada no GitHub
