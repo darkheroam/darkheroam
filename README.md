@@ -78,7 +78,9 @@ Principais atividades:
 
 ✔ Suporte técnico presencial e remoto para resolução de problemas de hardware e software.
 
-✔ Manutenção preventiva e corretiva em desktops, notebooks e periféricos.  ✔ Administração do sistema ERP, incluindo configurações, atualizações e treinamento de usuários.  
+✔ Manutenção preventiva e corretiva em desktops, notebooks e periféricos.  
+
+✔ Administração do sistema ERP, incluindo configurações, atualizações e treinamento de usuários.  
 
 ✔ Participação em projetos de melhorias do sistema, análise de requisitos e validação de funcionalidades.  
 
