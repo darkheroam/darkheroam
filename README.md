@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Olá, eu sou Pedro Santos
 
-<!--
-**darkheroam/darkheroam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
+💻 **Profissional de TI com mais de 10 anos de experiência em Infraestrutura e Suporte**
+🚀 **Em transição para a área de Desenvolvimento de Software**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💼 Sobre mim
+
+Sou apaixonado por tecnologia e por resolver problemas através da inovação.
+
+Ao longo da minha carreira, adquiri sólida experiência em infraestrutura de TI, redes, servidores, suporte técnico e implantação de soluções corporativas.
+
+Um dos maiores desafios da minha trajetória foi participar do **Projeto Norte Conectado**, do Ministério das Comunicações, pela **MDC**, atuando na implantação de contêineres Data Center responsáveis por receber a infraestrutura de fibra óptica e ampliar a conectividade em regiões remotas do Brasil.
+
+Hoje estou direcionando minha carreira para o desenvolvimento de software, estudando e desenvolvendo projetos que fortalecem meus conhecimentos em desenvolvimento web, APIs, bancos de dados e boas práticas de programação.
+
+Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor e contribuir com soluções de qualidade, unindo minha experiência em infraestrutura com o desenvolvimento de aplicações.
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Flask
+* Node.js
+* SQL
+* Git
+* GitHub
+* Bootstrap
+
+---
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento Web
+* APIs REST
+* Banco de Dados
+* Arquitetura de Software
+* Boas práticas de programação
+* Versionamento com Git
+
+---
+
+## 🚀 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pessoais, sempre buscando aplicar boas práticas de desenvolvimento, organização de código e resolução de problemas reais.
+
+---
+
+## 🎯 Objetivos
+
+* Conquistar minha primeira oportunidade como Desenvolvedor.
+* Evoluir continuamente como Engenheiro de Software.
+* Desenvolver aplicações modernas, escaláveis e de alta qualidade.
+* Contribuir com projetos Open Source.
+
+---
+
+## 📫 Vamos nos conectar?
+
+* 💼 LinkedIn
+* 💻 GitHub
