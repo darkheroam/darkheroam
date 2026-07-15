@@ -71,7 +71,22 @@ Atuação com suporte técnico especializado para sistemas de cartório, anális
 - Validação de arquivos JSON e TXT
 - Apoio em integrações com serviços externos
 
-### Projeto Norte Conectado — MDC
+### Elsys Equipamentos Eletrônicos Ltda
+Profissional de TI com experiência em suporte técnico ao usuário, manutenção de notebooks e computadores, e gestão do sistema ERP corporativo. Responsável por garantir o pleno funcionamento dos equipamentos e sistemas, além de atuar no acompanhamento de projetos de melhorias e validações de processos.  
+
+Principais atividades:  
+
+✔ Suporte técnico presencial e remoto para resolução de problemas de hardware e software.
+
+✔ Manutenção preventiva e corretiva em desktops, notebooks e periféricos.  ✔ Administração do sistema ERP, incluindo configurações, atualizações e treinamento de usuários.  
+
+✔ Participação em projetos de melhorias do sistema, análise de requisitos e validação de funcionalidades.  
+
+✔ Monitoramento de desempenho e troubleshooting de problemas no ambiente corporativo.  
+
+Comprometido com a melhoria contínua dos processos de TI e com a entrega de soluções eficientes para otimizar a produtividade da empresa.
+
+### MDC Indústria de Contêineres Inteligentes
 
 Responsável pelo Sistema de Monitoramento do NOC: Garantir a funcionalidade ideal dos equipamentos, permitindo ações rápidas na resolução de problemas.
 Configuração de Equipamentos de Rede e Segurança Eletrônica: Realizar a configuração e manutenção de dispositivos de rede e sistemas de segurança eletrônica.
